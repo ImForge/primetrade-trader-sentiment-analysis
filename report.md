@@ -172,6 +172,4 @@ The single most important finding in this dataset is that **trader performance d
 
 The simplest actionable rule for this cohort is also the strongest: **be long during Fear, neutral-to-short during Greed, and especially cautious during Extreme Greed where the worst outcomes cluster.**
 
----
 
-*Author: Shivam Tiwari (Forge)*  *|*  *Submission date: 8 June 2026*

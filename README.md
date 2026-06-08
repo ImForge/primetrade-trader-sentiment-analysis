@@ -52,6 +52,3 @@ python analysis.py
 - The `event` column referenced in the task is called `Direction` in the actual CSV (values: `Open Long`, `Close Long`, `Open Short`, `Close Short`, etc.).
 - Realized PnL is only populated on close events (~40% of rows); open events are excluded from PnL analysis.
 
-## Author
-
-Shivam Tiwari (Forge)    June 2026
